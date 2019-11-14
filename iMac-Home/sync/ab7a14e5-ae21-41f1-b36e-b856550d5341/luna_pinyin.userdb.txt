@@ -1,0 +1,19 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.3.2
+#@/tick	14
+#@/user_id	ab7a14e5-ae21-41f1-b36e-b856550d5341
+de 	的	c=1 d=1 t=14
+fa xian 	發現	c=2 d=1.99501 t=6
+hai 	還	c=1 d=1 t=10
+hao dong xi 	好東西	c=1 d=1 t=8
+liu chang 	流暢	c=1 d=1 t=13
+shi yong 	使用	c=1 d=0.995012 t=14
+shu xu guan 	鼠鬚管	c=1 d=0.985112 t=14
+shuang pin 	雙拼	c=1 d=1 t=14
+ting 	挺	c=1 d=1 t=12
+ting 	聽	c=1 d=1 t=11
+wu fa 	無法	c=1 d=0.99005 t=14
+yi ge 	一個	c=1 d=1 t=7
+zhen de 	真的	c=1 d=1 t=9
