@@ -3,7 +3,7 @@ customization:
   distribution_version: 2019-06-23
   rime_version: 1.5.3
 patch:
-  "menu/page_size": 8
+  "menu/page_size": 5
   schema_list:
     - schema: double_pinyin_flypy
     # - schema: flypy # 添加小鹤音形
