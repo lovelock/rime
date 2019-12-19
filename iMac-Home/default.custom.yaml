@@ -6,6 +6,7 @@ patch:
   "menu/page_size": 5
   schema_list:
     - schema: double_pinyin_flypy
+    - schema: luna_pinyin_simp
     # - schema: flypy # 添加小鹤音形
     # - schema: flypyplus # 添加小鹤音形+
 

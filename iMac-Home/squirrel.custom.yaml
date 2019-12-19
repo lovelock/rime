@@ -3,7 +3,7 @@ patch:
 
   style/color_scheme: catalina                # 方案命名，不能有空格
   preset_color_schemes:
-    lovelock:
+    catalina:
       name: catalina
       author: lovelock
       horizontal: true                          # 水平排列
