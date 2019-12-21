@@ -40,7 +40,7 @@ patch:
       hilited_candidate_text_color: 0xFFFFFF
       hilited_candidate_back_color: 0xD35A33
       candidate_text_color: 0xFFFFFF
-      comment_text_color: 0x000000
+      comment_text_color: 0xFFFFFF
       candidate_format: "%c\u2005%@"            # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
       corner_radius: 5                          # 候选条圆角
       hilited_corner_radius: 5                  # 高亮圆角
@@ -50,6 +50,7 @@ patch:
       # font_face: "PingFangSC"                 # 候选词字体
       font_point: 16                            # 候选字词大小
       label_font_point: 12                      # 候选编号大小
+
     mritd_dark:
       name: 漠然／mritd dark
       author: mritd <mritd1234@gmail.com>
