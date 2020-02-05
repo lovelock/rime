@@ -85,7 +85,6 @@ speller:
     #- abbrev/^(.).+$/$1/
 
 translator:
-  dictionary: luna_pinyin
   prism: double_pinyin_flypy
   preedit_format:
     - xform/([bpmfdtnljqx])n/$1iao/
@@ -142,3 +141,4 @@ recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*'?$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
